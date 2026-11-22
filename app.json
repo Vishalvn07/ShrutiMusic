@@ -49,7 +49,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/NoxxOP/ShrutiMusic",
+      "value": "https://github.com/Vishalvn07/ShrutiMusic",
       "required": false
     },
     "STRING_SESSION": {
